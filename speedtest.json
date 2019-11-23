@@ -1,0 +1,10 @@
+{
+    "em$1title":"__**Speed-Test**__",
+    "em$1description":"<p> Ping: <e1>\n<d> Download: <e2>\n<u> Upload: <e3>",
+    "em$1footer":"Angefragt von: ",
+    "em$2description":"<p> Ping: <data.server.ping>\n<d> Download: <data.speeds.download> MB/s\n<u> Upload: <data.speeds.upload> MB/s",
+    "em$2field1$1":"**__Weitere Informationen__**",
+    "em$2field1$2":"`Server-ID: <data.server.id>\nLand: <data.server.country> (<data.server.cc>)\nStandort: <data.server.location>",
+    "error$1":"Es ist ein Fehler aufgetreten.\nBitte versuche es später erneut."
+
+}
